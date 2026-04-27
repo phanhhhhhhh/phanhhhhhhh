@@ -91,7 +91,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phanhhhhhhh&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
+<img src="https://github-trophies.vercel.app/?username=phanhhhhhhh&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
 
 </div>
 
