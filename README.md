@@ -24,6 +24,8 @@ focus:       Full-stack development — Java backend & React frontend
 currently_learning:
   - Spring Boot in depth
   - Next.js & modern React patterns
+  - Angular fundamentals
+  - Cloud & deployment (AWS, Cloudflare)
   - System design fundamentals
   - Clean architecture & SOLID principles
 
