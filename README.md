@@ -1,15 +1,10 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=4078C0&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Nguyen+Phan+Anh+%F0%9F%91%8B;Junior+Software+Engineer;Full-stack+enthusiast;Always+learning%2C+always+shipping." alt="Typing SVG" />
-
 <br>
-
 [![Da Nang](https://img.shields.io/badge/Da_Nang-Vietnam-555555?style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
 [![FPT University](https://img.shields.io/badge/FPT_University-Software_Engineering-F37021?style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
 [![Profile views](https://komarev.com/ghpvc/?username=phanhhhhhhh&label=Profile%20views&color=4078C0&style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
-
 </div>
-
 <br>
 
 ## 🧑‍💻 &nbsp;About me
@@ -20,7 +15,6 @@ role:        Junior Software Engineer (Undergraduate)
 school:      FPT University, Da Nang
 location:    Da Nang, Vietnam 🇻🇳
 focus:       Full-stack development — Java backend & React frontend
-
 currently_learning:
   - Spring Boot in depth
   - Next.js & modern React patterns
@@ -28,7 +22,6 @@ currently_learning:
   - Cloud & deployment (AWS, Cloudflare)
   - System design fundamentals
   - Clean architecture & SOLID principles
-
 motto:       "Write code that your future self will thank you for."
 fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ```
@@ -38,7 +31,6 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ## 🛠️ &nbsp;Tech Stack
 
 #### Languages
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
@@ -49,14 +41,12 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### Frontend
-
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 #### Backend
-
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
@@ -64,13 +54,11 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 #### Cloud & DevOps
-
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 #### Databases & Tools
-
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -84,13 +72,13 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phanhhhhhhh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&title_color=4078C0&icon_color=4078C0&text_color=cccccc" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-psi-five-55.vercel.app/api?username=phanhhhhhhh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&title_color=4078C0&icon_color=4078C0&text_color=cccccc" alt="GitHub stats" />
 &nbsp;
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phanhhhhhhh&theme=transparent&hide_border=true&stroke=4078C0&ring=4078C0&fire=4078C0&currStreakLabel=4078C0" alt="GitHub streak" />
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanhhhhhhh&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=4078C0&text_color=cccccc" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-psi-five-55.vercel.app/api/top-langs/?username=phanhhhhhhh&layout=compact&theme=transparent&hide_border=true&langs_count=8&title_color=4078C0&text_color=cccccc" alt="Top languages" />
 
 </div>
 
@@ -99,9 +87,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ## 🏆 &nbsp;Trophy Cabinet
 
 <div align="center">
-
 <img src="https://github-trophies.vercel.app/?username=phanhhhhhhh&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-
 </div>
 
 <br>
@@ -146,9 +132,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=phanhhhhhhh&theme=github-compact&hide_border=true&color=4078C0&line=4078C0&point=4078C0&area=true&area_color=4078C0" alt="Activity graph" />
-
 </div>
 
 <br>
@@ -156,9 +140,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-
 <img alt="Snake animation" src="https://raw.githubusercontent.com/phanhhhhhhh/phanhhhhhhh/output/github-contribution-grid-snake.svg" />
-
 </div>
 
 <br>
