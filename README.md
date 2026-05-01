@@ -24,7 +24,6 @@ currently_learning:
 motto:       "Write code that your future self will thank you for."
 fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ```
-
 <br>
 
 ## 🛠️ &nbsp;Tech Stack
