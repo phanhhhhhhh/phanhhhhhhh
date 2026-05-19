@@ -75,7 +75,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 
 <img height="170" src="https://github-readme-stats-psi-five-55.vercel.app/api?username=phanhhhhhhh&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true&rank_icon=default&title_color=4078C0&icon_color=4078C0&text_color=cccccc" alt="GitHub stats" />
 &nbsp;
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=phanhhhhhhh&theme=transparent&hide_border=true&stroke=4078C0&ring=4078C0&fire=4078C0&currStreakLabel=4078C0" alt="GitHub streak" />
+<img height="170" src="https://streak-stats.demolab.com/?user=phanhhhhhhh&theme=transparent&hide_border=true&stroke=4078C0&ring=4078C0&fire=4078C0&currStreakLabel=4078C0" alt="GitHub streak" />
 
 <br><br>
 
