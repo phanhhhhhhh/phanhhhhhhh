@@ -133,7 +133,7 @@ fun_fact:    F1 fan — that's why F1-Pitwall exists 🏎️
 ## 📈 &nbsp;Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=phanhhhhhhh&theme=github-compact&hide_border=true&color=4078C0&line=4078C0&point=4078C0&area=true&area_color=4078C0" alt="Activity graph" />
+<img src="https://github-readme-activity-graph-taupe-rho.vercel.app/graph?username=phanhhhhhhh&theme=github-compact&hide_border=true&color=4078C0&line=4078C0&point=4078C0&area=true&area_color=4078C0" alt="Activity graph" />
 </div>
 
 <br>
