@@ -6,7 +6,7 @@
 
 [![Da Nang](https://img.shields.io/badge/Da_Nang-Vietnam-555555?style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
 [![FPT University](https://img.shields.io/badge/FPT_University-Software_Engineering-F37021?style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
-[![Profile views](https://komarev.com/ghpvc/?username=phanhhhhhhh&label=Profile%20views&color=4078C0&style=flat-square&labelColor=222222)](https://github.com/phanhhhhhhh)
+
 
 </div>
 ## 🧑‍💻 &nbsp;About me
